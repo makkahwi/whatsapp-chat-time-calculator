@@ -86,6 +86,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Authors
 
-- Makkahwi - Initial work and ongoing maintenance.
-- ChatGPT - Assistance with code suggestions.
-- CoPilot - Documentation completion and suggestions.
+- [Makkahwi](https://github.com/makkahwi/) - Initial work and ongoing maintenance.
+- [ChatGPT](https://chat.openai.com/) - Assistance with code suggestions.
+- [CoPilot](https://github.com/features/copilot) - Documentation completion and suggestions.
