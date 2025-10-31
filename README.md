@@ -22,11 +22,11 @@ npm install
 ## Usage
 
 1. Export your WhatsApp chat as a .txt file.
-2. Import file to root directory and rename it to a unique name (e.g., "xChat.txt").
+2. Import file to chats directory and rename it to a unique name (e.g., "xChat.txt").
 3. Run the TypeScript code with the exported file.
 
 ```bash
-node whatsapp-chat-time.ts "xChat.txt" --gap=3
+node whatsapp-chat-time.ts "chats/xChat.txt" --gap=3
 ```
 
 4. View the calculated time spent in chats in console. Which will look like this:
