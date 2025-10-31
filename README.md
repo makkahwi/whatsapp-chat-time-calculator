@@ -69,7 +69,7 @@ Conversation count method: start
 
 ## Configuration
 
-- `--gap`: (optional) Minimum gap in minutes to consider separate chat sessions. Default is 3 minutes.
+- `--gap`: (optional) Minimum gap in minutes to consider separate chat sessions. Default is 5 minutes.
 
 ## Contributing
 
