@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^24.9.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
