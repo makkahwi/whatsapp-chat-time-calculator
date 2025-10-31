@@ -70,7 +70,6 @@ Conversation count method: start
 ## Configuration
 
 - `--gap`: (optional) Minimum gap in minutes to consider separate chat sessions. Default is 3 minutes.
-- `--output`: (optional) Specify output file to save results. Default is console output.
 
 ## Contributing
 
